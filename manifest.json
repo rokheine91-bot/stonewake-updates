@@ -1,0 +1,16 @@
+{
+ "latest": "0.1.63",
+ "notes": "Stonewake 0.1.63: rescue (Phase 4)\n\n- Doctors now carry someone downed out in the open to a bed, then tend them there. In bed they heal twice as fast as on the ground.\n- Patients' beds: click a bed and choose Patients only. Nobody sleeps in it, and the wounded are brought there first. Anyone makes it an ordinary bed again. With no patients' bed, the wounded go to their own bed or any free one.\n- Clicking a bed now shows who it belongs to and who lies in it.",
+ "files": [
+  {
+   "name": "Stonewake-game.zip",
+   "size": 74494417,
+   "sha256": "837388838f0c7db5486ad48a767c327012543e956d4c5daa8a065517fbb68812",
+   "url": "https://raw.githubusercontent.com/rokheine91-bot/stonewake-updates/main/files/0.1.63/Stonewake-game.zip",
+   "parts": [
+    "https://raw.githubusercontent.com/rokheine91-bot/stonewake-updates/main/files/0.1.63/Stonewake-game.zip.part00"
+   ]
+  }
+ ],
+ "sig": "QEWbKrxMN2pzthtgCmgy4m83mzxDPVcx8HpJatkPQjxSTmSmabcR0yiBA9uhPZc6FubCTAKUU4YsJTSr8TRJAw=="
+}
